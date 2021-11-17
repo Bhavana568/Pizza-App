@@ -1,5 +1,4 @@
 # Pizza App!
-[Check it out](https://kamauvick.github.io/Pizza-App/)
 
 
 ## Description: 
